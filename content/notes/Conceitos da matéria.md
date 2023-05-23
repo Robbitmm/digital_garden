@@ -3,7 +3,7 @@ title: Conceitos da Matéria
 tag: conceitos da materia, propriedades da materia
 aliases: propriedades da materia
 ---
-### Volume 
+### Volume (V)
  - É o espaço ocupado por uma massa (m)
  
 ### Volume específico 
